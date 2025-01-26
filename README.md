@@ -2,11 +2,15 @@
 
 > Данный проект является переделанной версией проекта, доступного по ссылке: https://github.com/IgorVeshkin/Simcard_CRUD_System
 > 
-> (Проект доступный по ссылке выше использует стандарные инструменты рендеринга страницы Django (Django + HTML/CSS/JS))
+> Проект доступный по ссылке выше использует стандарные инструменты рендеринга страницы Django (Django + HTML/CSS/JS)
 > 
-> Проект состоит из 2 частей: Backend и Frontend
+> Проект состоит из 2 частей: [Backend](https://github.com/IgorVeshkin/SimcardBackend) и [Frontend](https://github.com/IgorVeshkin/SimcardFrontend)
 > 
 > В текущим репозитории представлен Backend
+> 
+> Репозиторий Frontend-части проекта: https://github.com/IgorVeshkin/SimcardFrontend
+> 
+>
 >
 > Backend написан на Django и Django Rest Framework. Frontend написан на фреймворке React JS и был скомпилирован и настроен для работы с Django
 > 

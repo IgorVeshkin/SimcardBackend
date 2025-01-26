@@ -1,0 +1,12 @@
+Admin:
+
+Login: IgorVeshkin
+
+Password: IgorIgor1
+
+
+User:
+
+Login: Ada_Wong
+
+Password: IgorIgor2
